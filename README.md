@@ -35,7 +35,7 @@ Ensure you have the following installed:
 
 ###  Clone the Repository
 ```sh
-git clone 
+git clone https://github.com/techspecialist1/khazana.git
 cd Khazana
 ```
 
